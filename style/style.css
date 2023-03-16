@@ -577,7 +577,8 @@ footer .container .footer-top .foot4 .foot-widget ul li a i{
     .navbar .nav-list{
         position: fixed;
         background: #ffffff;
-        margin-left: 50px;
+        margin-left: 0px;
+        padding-left: 50px;
         display: none;
         top: 10%;
         width: 100%;
